@@ -1,0 +1,9 @@
+.wrapper{
+  padding: 20px;
+}
+
+.todoListWrapper{
+display: grid;
+gap: 15px;
+grid-template-columns: repeat(4,1fr);
+}
